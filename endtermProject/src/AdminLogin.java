@@ -31,7 +31,7 @@ public class AdminLogin implements MenuOption {
                         break;
                     case 3:
                         updateRoom(connection, scanner);
-                        break; //комент дейтн нарсе бар комент для лохов
+                        break; 
                     case 4:
                         deleteRoom(connection, scanner);
                         break;
